@@ -2,29 +2,31 @@
  RL-based portfolio management solutions
 
 
-
 Main frameworks
 
-/***
-\begin{table}[]
-\centering
-\caption{My caption}
-\label{my-label}
-\begin{tabular}{l|l|l|}
-\hline
-\textbf{Short}  & \textbf{Model}  & \textbf{Paper/source} \\ \hline
-A3C & Asynchronous Methods for Deep Reinforcement Learning & https://arxiv.org/abs/1602.01783  \\ \hline
-DDPG &  Continuous control with deep reinforcement learning & https://arxiv.org/abs/1509.02971  \\ \hline
-\end{tabular}
-\end{table}
-***/
+| Model  | Title | Paper/source       |
+| ------ | ----- | ------------------ |
+| A3C  | Asynchronous Methods for Deep Reinforcement Learning  | https://arxiv.org/abs/1602.01783  |
+| DDPG  | Continuous control with deep reinforcement learning  | https://arxiv.org/abs/1509.02971  |
+
+Previous works in the topic
+
+| Model  | Title | Paper/source       |
+| ------ | ----- | ------------------ |
+| A3C  | Asynchronous Methods for Deep Reinforcement Learning  | https://arxiv.org/abs/1602.01783  |
+| DDPG  | Continuous control with deep reinforcement learning  | https://arxiv.org/abs/1509.02971  |
 
 
-economics&finance
-/***
-| __Model__ | __Paper/source__ |
-|-------------|------------|
-| Cat         | Apple      |
-| Dog         | Orange     |
-***/
+Economics & Finance
 
+| Model  | Title | Paper/source       |
+| ------ | ----- | ------------------ |
+| phd thesis      | Risk-Sensitive Reinforcement Learning Algorithms | https://people.eecs.berkeley.edu/~avivt/phd_thesis.pdf  |
+| coherent risks  | Policy Gradient for Coherent Risk Measures       | https://arxiv.org/abs/1502.03919  |
+
+
+Other research of general interest
+
+| Model  | Title | Paper/source       |
+| ------ | ----- | ------------------ |
+| learning from environment  | Loss is its own Reward: Self-Supervision for RL | https://arxiv.org/abs/1612.07307|
