@@ -13,8 +13,7 @@ Previous works in the topic
 
 | Model  | Title | Paper/source       |
 | ------ | ----- | ------------------ |
-| A3C  | Asynchronous Methods for Deep Reinforcement Learning  | https://arxiv.org/abs/1602.01783  |
-| DDPG  | Continuous control with deep reinforcement learning  | https://arxiv.org/abs/1509.02971  |
+| modern portfolio  | A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem  | https://arxiv.org/abs/1706.10059  |
 
 
 Economics & Finance
