@@ -13,7 +13,7 @@ Previous works in the topic
 
 | Model  | Title | Paper/source       |
 | ------ | ----- | ------------------ |
-| modern portfolio  | A Deep RL Framework for the Financial Portfolio Management Problem  | https://arxiv.org/abs/1706.10059  |
+| modern portfolio  | A Deep RL Framework for Portfolio Management Problem  | https://arxiv.org/abs/1706.10059  |
 
 
 Economics & Finance
