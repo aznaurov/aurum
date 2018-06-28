@@ -1,2 +1,2 @@
 # aurum
-Modern portfolio management solutions with RL-based techniques
+ RL-based portfolio management solutions
