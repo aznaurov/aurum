@@ -8,12 +8,7 @@ Main frameworks
 | ------ | ----- | ------------------ |
 | A3C  | Asynchronous Methods for Deep Reinforcement Learning  | https://arxiv.org/abs/1602.01783  |
 | DDPG  | Continuous control with deep reinforcement learning  | https://arxiv.org/abs/1509.02971  |
-
-Previous works in the topic
-
-| Model  | Title | Paper/source       |
-| ------ | ----- | ------------------ |
-| modern portfolio  | A Deep RL Framework for Portfolio Management Problem  | https://arxiv.org/abs/1706.10059  |
+| RL-PM| A Deep RL Framework for Portfolio Management Problem  | https://arxiv.org/abs/1706.10059  |
 
 
 Economics & Finance
